@@ -34,7 +34,7 @@ This course examines what makes us uniquely human and how that humanity enables 
 
 Full-page screenshots of the original site:
 
-- [Home page](screenshots/home.png)
-- [Readings page](screenshots/readings.png)
-- [Materials page](screenshots/materials.png)
-- [Guests page](screenshots/guests.png)
+- [Home page](screenshots/home.jpg)
+- [Readings page](screenshots/readings.jpg)
+- [Materials page](screenshots/materials.jpg)
+- [Guests page](screenshots/guests.jpg)
