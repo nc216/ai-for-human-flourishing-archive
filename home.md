@@ -1,0 +1,86 @@
+# AI for Human Flourishing — Home
+
+> Archived from: https://sites.google.com/stanford.edu/aiforhumanflourishing/home
+
+---
+
+## AI FOR HUMAN FLOURISHING
+### GSBGEN 596 — Stanford Graduate School of Business
+
+**Instructor:** [Dr. Jennifer Aaker](https://www.gsb.stanford.edu/faculty-research/faculty/jennifer-aaker), General Atlantic Professor
+
+---
+
+## Course Description
+
+This course examines what makes us uniquely human and how that humanity enables us to flourish. We will explore the capabilities and limits of artificial intelligence to ask where emerging technologies can help us become our best selves, what should remain distinctly human, and what can be responsibly automated. Through experiences, workshops and dialogue with pioneers and operators in this space - students will develop a nuanced understanding of how AI can enhance professional, personal, and interpersonal growth.
+
+Each class will center on a tension between human skills and AI tools, and involve workshops focused on discovery, productivity, health, impact and savoring. Early in the quarter, students will create personal AI agents that act as co-pilots—helping them clarify goals and extend their learning. At the end, students will write an essay reflecting on something they built or examining a human–machine dilemma and the balance they believe is right. These essays will form a Collective Anthology capturing how this moment shapes our choices about integrating emerging technologies into our lives. Students will leave with a clearer sense of how the next generation of AI - cognitive, contextual, and collaborative - may shape not only what humans can do, but who we can become.
+
+---
+
+## Learning Outcomes
+
+By the end, students will be able to:
+
+1. **Define Human Flourishing in the Age of AI:** Articulate what it means to flourish personally, professionally, and collectively in an era shaped by artificial intelligence.
+
+2. **Deploy AI Tools for Personal Growth:** Experiment with AI agents and tools to enhance creativity, productivity, health, impact and even savoring.
+
+3. **Evaluate Human-Machine Collaborations:** Analyze the boundaries between human intuition and machine intelligence in both personal and professional pursuits.
+
+4. **Apply their Unique (Human) Strengths:** Strengthen the capabilities that require human intuition, deep thinking, empathy, and exploration.
+
+---
+
+## Teaching Team
+
+**Instructor**
+- Dr. Jennifer Aaker — General Atlantic Professor, Stanford Graduate School of Business
+
+**Teaching Assistants**
+- Jenni Steiger — jensteig@stanford.edu
+- Sarah Strober — strobers@stanford.edu
+
+---
+
+## Advisors
+
+| Advisor | Role |
+|---------|------|
+| Fei-Fei Lee | Stanford CS Professor |
+| Sophie Hamilton | Spotify |
+| James Joaquin | Obvious Ventures |
+
+---
+
+## Final Project
+
+> "The future belongs to those who build it."
+
+Instead of reading a book for this course, you will create one. Because AI is evolving in ways we cannot fully predict, your project begins with a look inward, defining what human flourishing means to you - without AI. Your values and vision come first; the technology follows.
+
+Then - absorbing the learning from the course - you will develop reflections about the advantages and limits of AI for human flourishing into a **1,000-word chapter** for our collective anthology.
+
+### Chapter Requirements
+
+Each chapter blends analysis and imagination, and will be grounded in your own insights and the experiments you build during the course. Your chapter should:
+
+- Focus on one domain of flourishing (e.g., **Discovery, Pursuit, Health, Impact, or Savoring**)
+- Reference at least one artifact, prototype, or experiment you created, and explain what it revealed
+- Conclude by addressing three core questions:
+  1. As AI grows more capable, which human domain most needs to flourish - and why?
+  2. As AI advances, where do you see the deepest tension between innovation and human well-being, especially when work may be disrupted unevenly, and how might we resolve it?
+  3. If you had to choose one principle to guide how you build, lead, or design with AI, what would it be - and how would you apply it in practice?
+
+Each chapter will be paired with an accompanying artwork and include a brief **Author's Note (~150 words)** explaining how you used AI in the writing process and how you ensured the final voice remained your own.
+
+The 2026 anthology will form the first volume in an ongoing archive of student work for this course.
+
+---
+
+## When & Where
+
+- **Quarter:** Winter 2026
+- **Schedule:** Tuesdays 2:50–5:45 PM
+- **Location:** McClelland 101D (CoLab), Stanford University
